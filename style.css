@@ -483,3 +483,23 @@ main {
     padding: 8px 8px;
   }
 }
+@media screen and (max-width: 767px) {
+  .side-feed {
+    display: none;
+  }
+  .main-feed {
+  width: 98%;
+  }
+  #more_horiz{
+    display: none;
+  }
+  .new-sweet-actions .sweet-button {
+    width: 54px;
+    height: 30px;
+    font-size: 1.2rem;
+  }
+  #sweet-button{
+    display: none;
+  }
+
+}
