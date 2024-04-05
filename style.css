@@ -488,9 +488,9 @@ main {
     display: none;
   }
   .main-feed {
-  width: 98%;
+    width: 98%;
   }
-  #more_horiz{
+  #more_horiz {
     display: none;
   }
   .new-sweet-actions .sweet-button {
@@ -498,8 +498,7 @@ main {
     height: 30px;
     font-size: 1.2rem;
   }
-  #sweet-button{
+  #sweet-button {
     display: none;
   }
-
 }
